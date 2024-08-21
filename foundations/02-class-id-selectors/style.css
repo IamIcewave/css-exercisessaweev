@@ -1,0 +1,17 @@
+.class {
+     color: black;
+     background-color: rgb(209, 93, 112);
+     font-family: Verdana,"DejaVu Sans",sans-serif; 
+}
+.three{
+    font-size:24px;
+}
+#deux {
+    color: blue;
+    font-size: 36px;
+}
+#quatre {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
